@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\Assets\\Scripts\\LevelAssembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelAssembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\map.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:map.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicMoveProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "ToolTip": "C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:01:34.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "map.xml",
+              "DocumentMoniker": "C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\map.xml",
+              "RelativeDocumentMoniker": "map.xml",
+              "ToolTip": "C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\map.xml",
+              "RelativeToolTip": "map.xml",
+              "ViewState": "AQIAAOEDAAAAAAAAAAAAALgFAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-02T14:56:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\Assets\\Scripts\\LevelAssembler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelAssembler.cs",
+              "ToolTip": "C:\\Users\\hampu\\Documents\\Unity\\Police VR\\Police Training Sim\\Assets\\Scripts\\LevelAssembler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelAssembler.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAQwOMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:29:09.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
